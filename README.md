@@ -18,4 +18,4 @@ NOTE: Not yet tested with a UICollectionView.
 + followScrollViewScrolling: in scrollViewDidScroll: 
 + endScrollViewScrolling:willDecelerate: in scrollViewDidEndDragging:willDecelerate: 
 
-That's it! Your navigationBar should scroll along with your scrollable view.
+That's it! Your navigation bar should scroll along with your scrollable view.
