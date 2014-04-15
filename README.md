@@ -13,10 +13,9 @@ NOTE: Not yet tested with a UICollectionView.
 
 -You can then set the animationDuration property (optional), which controls the duration for which an animation will complete if the navigation bar did not fully scroll up/down. 
 
--Then inside your scrollView Delegate methods, call the following:
+-Then inside your scrollView Delegate methods, call the following passing through the 'scrollView' and 'decelerate' parameters:
 + `-startNavBarScrolling:` in `-scrollViewWillBeginDragging:`
 + `-followScrollViewScrolling:` in `-scrollViewDidScroll:` 
 + `-endScrollViewScrolling:willDecelerate:` in `-scrollViewDidEndDragging:willDecelerate:` 
-and pass along the scrollView and decelerate parameters
 
 That's it! Your navigation bar should scroll along with your scrollable view. See the example for clarification.
