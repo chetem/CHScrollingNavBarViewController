@@ -1,8 +1,6 @@
 CHScrollingNavBarViewController
 ===============================
 
-![alt text](https://github.com/chetem/CHScrollingNavBarViewController/raw/master/Sample_Screenshots/Screen_shot_1.png "Screen Shot 1") ![alt text](https://github.com/chetem/CHScrollingNavBarViewController/raw/master/Sample_Screenshots/Screen_shot_2.png "Screen Shot 2")
-
 Getting Started:
 ----------------
 
@@ -21,3 +19,8 @@ NOTE: Not yet tested with a UICollectionView.
 + `-endScrollViewScrolling:willDecelerate:` in `-scrollViewDidEndDragging:willDecelerate:` 
 
 That's it! Your navigation bar should scroll along with your scrollable view. See the example for clarification.
+
+Screen Shots:
+-------------
+![alt text](https://github.com/chetem/CHScrollingNavBarViewController/raw/master/Sample_Screenshots/Screen_shot_1.png "Screen Shot 1")
+![alt text](https://github.com/chetem/CHScrollingNavBarViewController/raw/master/Sample_Screenshots/Screen_shot_2.png "Screen Shot 2")
