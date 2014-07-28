@@ -293,4 +293,8 @@ typedef enum ScrollDirection {
     return scrollViewBottomOffset;
 }
 
+- (void)willRotateToInterfaceOrientation:(UIInterfaceOrientation)toInterfaceOrientation duration:(NSTimeInterval)duration{
+    [self.overlayView setAlpha:0];
+}
+
 @end
