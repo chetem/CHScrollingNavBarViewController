@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>81B03910-8647-457A-96C7-6FDD52643F34</string>
+	<string>16326526-5AAE-4527-A700-A4838AF3CFC2</string>
 	<key>IDESourceControlProjectName</key>
 	<string>ScrollingNavBar</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>E6CB4AA8-24AF-4E90-BD22-D09224D259C4</key>
-		<string>https://github.com/chetem/CHScrollingNavBarViewController.git</string>
+		<key>3FFC338A-F6DE-4CDD-9FDD-3D7F8EC10E68</key>
+		<string>https://github.com/mythodeia/CHScrollingNavBarViewController.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>CHScrollingNavBarExample/ScrollingNavBar/ScrollingNavBar.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>E6CB4AA8-24AF-4E90-BD22-D09224D259C4</key>
+		<key>3FFC338A-F6DE-4CDD-9FDD-3D7F8EC10E68</key>
 		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/chetem/CHScrollingNavBarViewController.git</string>
+	<string>https://github.com/mythodeia/CHScrollingNavBarViewController.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>E6CB4AA8-24AF-4E90-BD22-D09224D259C4</string>
+	<string>3FFC338A-F6DE-4CDD-9FDD-3D7F8EC10E68</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>E6CB4AA8-24AF-4E90-BD22-D09224D259C4</string>
+			<string>3FFC338A-F6DE-4CDD-9FDD-3D7F8EC10E68</string>
 			<key>IDESourceControlWCCName</key>
 			<string>CHScrollingNavBarViewController</string>
 		</dict>
